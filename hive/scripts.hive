@@ -1,0 +1,29 @@
+
+CREATE TABLE us_accidents(ID STRING, Source STRING, TMC DOUBLE, Severity INT, Start_Time STRING, End_Time STRING, Start_Lat DOUBLE, Start_Lng DOUBLE, End_Lat DOUBLE, End_Lng DOUBLE, Distance DOUBLE, Description STRING, Number DOUBLE, Street STRING, Side STRING, City STRING, County STRING, State STRING, Zipcode STRING, Country STRING, Timezone STRING, Airport_Code STRING, Weather_Timestamp STRING, Temperature DOUBLE, Wind_Chill DOUBLE,Humidity DOUBLE, Pressure DOUBLE, Visibility DOUBLE, Wind_Direction STRING, Wind_Speed DOUBLE, Precipitation DOUBLE, Weather_Condition STRING, Amenity BOOLEAN, Bump BOOLEAN, Crossing BOOLEAN, Give_Way BOOLEAN, Junction BOOLEAN, No_Exit BOOLEAN, Railway BOOLEAN, Roundabout BOOLEAN, Station BOOLEAN, Stop BOOLEAN, Traffic_Calming BOOLEAN, Traffic_Signal BOOLEAN, Turning_Loop BOOLEAN, Sunrise_Sunset STRING, Civil_Twilight STRING, Nautical_Twilight STRING, Astronomical_Twilight STRING) row format delimited fields terminated by ',';
+
+CREATE TABLE Wind_Direction(Wind_Direction STRING, Description STRING) row format delimited fields terminated by ',';
+
+
+LOAD DATA INPATH '/US_Accidents_Dec20.csv' OVERWRITE INTO TABLE us_accidents;
+LOAD DATA INPATH '/WindDirection.csv' OVERWRITE INTO TABLE Wind_Direction;
+
+
+
+-- Cities in the State of Ohio which caused delays on a rainy day
+
+SELECT City, COUNT(*) AS NumberOfAccidents FROM us_accidents WHERE CHARINDEX('delays',Description) > 0 AND City <> '' AND Weather_Condition='Heavy Rain' AND State='OH' GROUP BY City;
+
+
+
+-- Inner join based on Wind Direction
+
+SELECT a.Wind_Direction, b.Description, a.Wind_Speed FROM us_accidents a JOIN Wind_Direction b ON (a.Wind_Direction=b.Wind_Direction) WHERE a.Wind_Direction <> ''
+
+
+
+
+-- Maximum Temperature for each Weather Condition during accidents
+
+
+SELECT Weather_Condition, MAX(Temperature) FROM us_accidents WHERE Weather_Condition <> '' GROUP BY Weather_Condition ORDER BY MAX(Temperature) DESC;
+

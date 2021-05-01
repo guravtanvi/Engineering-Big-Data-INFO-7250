@@ -1,0 +1,814 @@
+CA;Inyo;0.75
+CA;Inyo;1.0
+CA;Inyo;1.8
+CA;Inyo;2.0
+CA;Inyo;3.0
+CA;Kern;0.0
+CA;Kern;0.06
+CA;Kern;0.2
+CA;Kern;0.25
+CA;Kern;0.5
+CA;Kern;0.75
+CA;Kern;0.8
+CA;Kern;1.0
+CA;Kern;1.2
+CA;Kern;1.5
+CA;Kern;1.8
+CA;Kern;2.0
+CA;Kern;2.5
+CA;Kern;3.0
+CA;Kern;4.0
+CA;Lake;0.0
+CA;Lake;0.2
+CA;Lake;0.25
+CA;Lake;0.5
+CA;Lake;0.75
+CA;Lake;0.8
+CA;Lake;1.0
+CA;Lake;1.2
+CA;Lake;1.5
+CA;Lake;1.8
+CA;Lake;2.0
+CA;Lake;2.5
+CA;Lake;3.0
+CA;Lake;4.0
+CA;Mono;0.2
+CA;Mono;0.25
+CA;Mono;0.5
+CA;Mono;0.75
+CA;Mono;1.0
+CA;Mono;1.5
+CA;Mono;2.0
+CA;Mono;2.5
+CA;Mono;3.0
+CA;Mono;4.0
+CA;Napa;0.0
+CA;Napa;0.2
+CA;Napa;0.25
+CA;Napa;0.5
+CA;Napa;0.75
+CA;Napa;0.8
+CA;Napa;1.0
+CA;Napa;1.2
+CA;Napa;1.5
+CA;Napa;1.8
+CA;Napa;2.0
+CA;Napa;2.5
+CA;Napa;3.0
+CA;Napa;4.0
+CA;Yolo;0.0
+CA;Yolo;0.06
+CA;Yolo;0.1
+CA;Yolo;0.12
+CA;Yolo;0.2
+CA;Yolo;0.25
+CA;Yolo;0.5
+CA;Yolo;0.75
+CA;Yolo;0.8
+CA;Yolo;1.0
+CA;Yolo;1.2
+CA;Yolo;1.5
+CA;Yolo;1.8
+CA;Yolo;2.0
+CA;Yolo;2.5
+CA;Yolo;3.0
+CA;Yolo;4.0
+CA;Yuba;0.0
+CA;Yuba;0.2
+CA;Yuba;0.25
+CA;Yuba;0.5
+CA;Yuba;1.0
+CA;Yuba;1.2
+CA;Yuba;1.8
+CA;Yuba;2.0
+CA;Yuba;2.5
+CA;Yuba;2.8
+CA;Yuba;3.0
+CA;Yuba;4.0
+CA;Butte;0.0
+CA;Butte;0.2
+CA;Butte;0.25
+CA;Butte;0.5
+CA;Butte;0.75
+CA;Butte;1.0
+CA;Butte;1.2
+CA;Butte;1.5
+CA;Butte;2.0
+CA;Butte;2.5
+CA;Butte;3.0
+CA;Butte;4.0
+CA;Glenn;0.0
+CA;Glenn;0.25
+CA;Glenn;0.75
+CA;Glenn;1.0
+CA;Glenn;1.2
+CA;Glenn;1.5
+CA;Glenn;2.0
+CA;Glenn;3.0
+CA;Glenn;4.0
+CA;Kings;0.0
+CA;Kings;0.1
+CA;Kings;0.12
+CA;Kings;0.2
+CA;Kings;0.25
+CA;Kings;0.5
+CA;Kings;0.75
+CA;Kings;0.8
+CA;Kings;1.0
+CA;Kings;1.2
+CA;Kings;1.5
+CA;Kings;1.8
+CA;Kings;2.0
+CA;Kings;2.5
+CA;Kings;3.0
+CA;Kings;4.0
+CA;Marin;0.0
+CA;Marin;0.2
+CA;Marin;0.25
+CA;Marin;0.5
+CA;Marin;0.75
+CA;Marin;0.8
+CA;Marin;1.0
+CA;Marin;1.2
+CA;Marin;1.5
+CA;Marin;1.8
+CA;Marin;2.0
+CA;Marin;2.5
+CA;Marin;3.0
+CA;Marin;4.0
+CA;Modoc;0.25
+CA;Modoc;0.75
+CA;Modoc;1.0
+CA;Modoc;2.0
+CA;Modoc;2.5
+CA;Modoc;3.0
+CA;Modoc;4.0
+CA;Alpine;0.2
+CA;Alpine;0.25
+CA;Alpine;0.5
+CA;Alpine;0.75
+CA;Alpine;1.0
+CA;Alpine;1.8
+CA;Alpine;2.0
+CA;Alpine;3.0
+CA;Alpine;4.0
+CA;Amador;0.0
+CA;Amador;0.2
+CA;Amador;0.25
+CA;Amador;0.5
+CA;Amador;0.75
+CA;Amador;0.8
+CA;Amador;1.0
+CA;Amador;1.2
+CA;Amador;1.5
+CA;Amador;1.8
+CA;Amador;2.0
+CA;Amador;2.5
+CA;Amador;3.0
+CA;Amador;4.0
+CA;Colusa;0.0
+CA;Colusa;0.12
+CA;Colusa;0.2
+CA;Colusa;0.25
+CA;Colusa;0.5
+CA;Colusa;0.8
+CA;Colusa;1.0
+CA;Colusa;1.5
+CA;Colusa;2.0
+CA;Colusa;2.5
+CA;Colusa;3.0
+CA;Colusa;4.0
+CA;Fresno;0.0
+CA;Fresno;0.06
+CA;Fresno;0.1
+CA;Fresno;0.12
+CA;Fresno;0.2
+CA;Fresno;0.25
+CA;Fresno;0.5
+CA;Fresno;0.75
+CA;Fresno;0.8
+CA;Fresno;1.0
+CA;Fresno;1.2
+CA;Fresno;1.5
+CA;Fresno;1.8
+CA;Fresno;2.0
+CA;Fresno;2.5
+CA;Fresno;3.0
+CA;Fresno;4.0
+CA;Lassen;0.2
+CA;Lassen;0.25
+CA;Lassen;0.5
+CA;Lassen;1.0
+CA;Lassen;2.0
+CA;Lassen;2.5
+CA;Lassen;3.0
+CA;Lassen;4.0
+CA;Madera;0.0
+CA;Madera;0.1
+CA;Madera;0.12
+CA;Madera;0.2
+CA;Madera;0.25
+CA;Madera;0.5
+CA;Madera;0.75
+CA;Madera;0.8
+CA;Madera;1.0
+CA;Madera;1.2
+CA;Madera;1.5
+CA;Madera;1.8
+CA;Madera;2.0
+CA;Madera;2.5
+CA;Madera;3.0
+CA;Madera;4.0
+CA;Merced;0.0
+CA;Merced;0.06
+CA;Merced;0.1
+CA;Merced;0.12
+CA;Merced;0.2
+CA;Merced;0.25
+CA;Merced;0.5
+CA;Merced;0.75
+CA;Merced;0.8
+CA;Merced;1.0
+CA;Merced;1.2
+CA;Merced;1.5
+CA;Merced;1.8
+CA;Merced;2.0
+CA;Merced;2.5
+CA;Merced;3.0
+CA;Merced;4.0
+CA;Nevada;0.0
+CA;Nevada;0.2
+CA;Nevada;0.25
+CA;Nevada;0.5
+CA;Nevada;0.75
+CA;Nevada;0.8
+CA;Nevada;1.0
+CA;Nevada;1.2
+CA;Nevada;1.5
+CA;Nevada;1.8
+CA;Nevada;2.0
+CA;Nevada;2.5
+CA;Nevada;3.0
+CA;Nevada;4.0
+CA;Orange;0.0
+CA;Orange;0.06
+CA;Orange;0.1
+CA;Orange;0.12
+CA;Orange;0.2
+CA;Orange;0.25
+CA;Orange;0.38
+CA;Orange;0.4
+CA;Orange;0.5
+CA;Orange;0.6
+CA;Orange;0.75
+CA;Orange;0.8
+CA;Orange;0.88
+CA;Orange;0.9
+CA;Orange;1.0
+CA;Orange;1.2
+CA;Orange;1.5
+CA;Orange;1.8
+CA;Orange;2.0
+CA;Orange;2.5
+CA;Orange;2.8
+CA;Orange;3.0
+CA;Orange;4.0
+CA;Placer;0.0
+CA;Placer;0.2
+CA;Placer;0.25
+CA;Placer;0.5
+CA;Placer;0.75
+CA;Placer;0.8
+CA;Placer;1.0
+CA;Placer;1.2
+CA;Placer;1.5
+CA;Placer;1.8
+CA;Placer;2.0
+CA;Placer;2.5
+CA;Placer;3.0
+CA;Placer;4.0
+CA;Plumas;0.0
+CA;Plumas;0.2
+CA;Plumas;0.25
+CA;Plumas;0.5
+CA;Plumas;1.0
+CA;Plumas;1.5
+CA;Plumas;2.0
+CA;Plumas;2.5
+CA;Plumas;3.0
+CA;Plumas;4.0
+CA;Shasta;0.2
+CA;Shasta;0.25
+CA;Shasta;0.5
+CA;Shasta;0.75
+CA;Shasta;0.8
+CA;Shasta;1.0
+CA;Shasta;1.2
+CA;Shasta;2.0
+CA;Shasta;2.5
+CA;Shasta;3.0
+CA;Shasta;4.0
+CA;Sierra;0.0
+CA;Sierra;0.2
+CA;Sierra;0.25
+CA;Sierra;0.5
+CA;Sierra;0.75
+CA;Sierra;0.8
+CA;Sierra;1.0
+CA;Sierra;1.2
+CA;Sierra;1.8
+CA;Sierra;2.0
+CA;Sierra;2.5
+CA;Sierra;3.0
+CA;Sierra;4.0
+CA;Solano;0.0
+CA;Solano;0.12
+CA;Solano;0.2
+CA;Solano;0.25
+CA;Solano;0.38
+CA;Solano;0.4
+CA;Solano;0.5
+CA;Solano;0.63
+CA;Solano;0.75
+CA;Solano;0.8
+CA;Solano;1.0
+CA;Solano;1.1
+CA;Solano;1.2
+CA;Solano;1.4
+CA;Solano;1.5
+CA;Solano;1.8
+CA;Solano;1.9
+CA;Solano;2.0
+CA;Solano;2.5
+CA;Solano;2.8
+CA;Solano;3.0
+CA;Solano;4.0
+CA;Sonoma;0.0
+CA;Sonoma;0.1
+CA;Sonoma;0.2
+CA;Sonoma;0.25
+CA;Sonoma;0.4
+CA;Sonoma;0.5
+CA;Sonoma;0.75
+CA;Sonoma;0.8
+CA;Sonoma;1.0
+CA;Sonoma;1.2
+CA;Sonoma;1.5
+CA;Sonoma;1.8
+CA;Sonoma;2.0
+CA;Sonoma;2.5
+CA;Sonoma;3.0
+CA;Sonoma;4.0
+CA;Sutter;0.0
+CA;Sutter;0.06
+CA;Sutter;0.2
+CA;Sutter;0.25
+CA;Sutter;0.5
+CA;Sutter;0.8
+CA;Sutter;1.0
+CA;Sutter;1.2
+CA;Sutter;1.5
+CA;Sutter;1.8
+CA;Sutter;2.0
+CA;Sutter;3.0
+CA;Sutter;4.0
+CA;Tehama;0.0
+CA;Tehama;0.25
+CA;Tehama;1.0
+CA;Tehama;2.0
+CA;Tehama;2.5
+CA;Tehama;3.0
+CA;Tehama;4.0
+CA;Tulare;0.0
+CA;Tulare;0.2
+CA;Tulare;0.25
+CA;Tulare;0.5
+CA;Tulare;0.75
+CA;Tulare;0.8
+CA;Tulare;1.0
+CA;Tulare;1.2
+CA;Tulare;1.5
+CA;Tulare;1.8
+CA;Tulare;2.0
+CA;Tulare;2.5
+CA;Tulare;3.0
+CA;Tulare;4.0
+CA;Alameda;0.0
+CA;Alameda;0.06
+CA;Alameda;0.1
+CA;Alameda;0.12
+CA;Alameda;0.2
+CA;Alameda;0.25
+CA;Alameda;0.5
+CA;Alameda;0.75
+CA;Alameda;0.8
+CA;Alameda;1.0
+CA;Alameda;1.2
+CA;Alameda;1.5
+CA;Alameda;1.8
+CA;Alameda;2.0
+CA;Alameda;2.5
+CA;Alameda;3.0
+CA;Alameda;4.0
+CA;Trinity;0.2
+CA;Trinity;0.5
+CA;Trinity;0.75
+CA;Trinity;1.0
+CA;Trinity;1.2
+CA;Trinity;2.0
+CA;Trinity;2.5
+CA;Trinity;3.0
+CA;Trinity;4.0
+CA;Ventura;0.0
+CA;Ventura;0.2
+CA;Ventura;0.25
+CA;Ventura;0.5
+CA;Ventura;0.75
+CA;Ventura;0.8
+CA;Ventura;1.0
+CA;Ventura;1.2
+CA;Ventura;1.5
+CA;Ventura;1.8
+CA;Ventura;2.0
+CA;Ventura;2.5
+CA;Ventura;3.0
+CA;Ventura;4.0
+CA;Humboldt;0.0
+CA;Humboldt;0.2
+CA;Humboldt;0.25
+CA;Humboldt;0.5
+CA;Humboldt;0.75
+CA;Humboldt;1.0
+CA;Humboldt;1.2
+CA;Humboldt;1.5
+CA;Humboldt;1.8
+CA;Humboldt;2.0
+CA;Humboldt;2.5
+CA;Humboldt;3.0
+CA;Humboldt;4.0
+CA;Imperial;0.8
+CA;Mariposa;0.0
+CA;Mariposa;0.2
+CA;Mariposa;0.25
+CA;Mariposa;0.5
+CA;Mariposa;1.0
+CA;Mariposa;1.5
+CA;Mariposa;2.0
+CA;Mariposa;2.5
+CA;Mariposa;3.0
+CA;Mariposa;4.0
+CA;Monterey;0.0
+CA;Monterey;0.2
+CA;Monterey;0.25
+CA;Monterey;0.5
+CA;Monterey;0.75
+CA;Monterey;0.8
+CA;Monterey;1.0
+CA;Monterey;1.2
+CA;Monterey;1.5
+CA;Monterey;1.8
+CA;Monterey;2.0
+CA;Monterey;2.5
+CA;Monterey;3.0
+CA;Monterey;4.0
+CA;Siskiyou;0.0
+CA;Siskiyou;0.2
+CA;Siskiyou;0.25
+CA;Siskiyou;0.5
+CA;Siskiyou;0.75
+CA;Siskiyou;0.8
+CA;Siskiyou;1.0
+CA;Siskiyou;1.2
+CA;Siskiyou;1.5
+CA;Siskiyou;1.8
+CA;Siskiyou;2.0
+CA;Siskiyou;2.5
+CA;Siskiyou;3.0
+CA;Siskiyou;4.0
+CA;Tuolumne;0.2
+CA;Tuolumne;0.25
+CA;Tuolumne;0.5
+CA;Tuolumne;0.75
+CA;Tuolumne;1.0
+CA;Tuolumne;1.8
+CA;Tuolumne;2.0
+CA;Tuolumne;2.5
+CA;Tuolumne;3.0
+CA;Tuolumne;4.0
+CA;Calaveras;0.0
+CA;Calaveras;0.2
+CA;Calaveras;0.25
+CA;Calaveras;0.5
+CA;Calaveras;0.75
+CA;Calaveras;0.8
+CA;Calaveras;1.0
+CA;Calaveras;1.2
+CA;Calaveras;1.5
+CA;Calaveras;1.8
+CA;Calaveras;2.0
+CA;Calaveras;2.5
+CA;Calaveras;3.0
+CA;Calaveras;4.0
+CA;Del Norte;0.25
+CA;Del Norte;0.5
+CA;Del Norte;0.75
+CA;Del Norte;0.8
+CA;Del Norte;1.0
+CA;Del Norte;1.2
+CA;Del Norte;1.5
+CA;Del Norte;1.8
+CA;Del Norte;2.0
+CA;Del Norte;2.5
+CA;Del Norte;3.0
+CA;Del Norte;4.0
+CA;El Dorado;0.0
+CA;El Dorado;0.2
+CA;El Dorado;0.25
+CA;El Dorado;0.5
+CA;El Dorado;0.75
+CA;El Dorado;0.8
+CA;El Dorado;0.99
+CA;El Dorado;1.0
+CA;El Dorado;1.2
+CA;El Dorado;1.5
+CA;El Dorado;1.8
+CA;El Dorado;2.0
+CA;El Dorado;2.5
+CA;El Dorado;3.0
+CA;El Dorado;4.0
+CA;Mendocino;0.0
+CA;Mendocino;0.25
+CA;Mendocino;0.5
+CA;Mendocino;0.75
+CA;Mendocino;0.8
+CA;Mendocino;1.0
+CA;Mendocino;1.2
+CA;Mendocino;1.5
+CA;Mendocino;1.8
+CA;Mendocino;2.0
+CA;Mendocino;2.5
+CA;Mendocino;3.0
+CA;Mendocino;4.0
+CA;Riverside;0.0
+CA;Riverside;0.1
+CA;Riverside;0.12
+CA;Riverside;0.19
+CA;Riverside;0.2
+CA;Riverside;0.25
+CA;Riverside;0.38
+CA;Riverside;0.4
+CA;Riverside;0.5
+CA;Riverside;0.6
+CA;Riverside;0.63
+CA;Riverside;0.75
+CA;Riverside;0.8
+CA;Riverside;0.88
+CA;Riverside;1.0
+CA;Riverside;1.1
+CA;Riverside;1.2
+CA;Riverside;1.4
+CA;Riverside;1.5
+CA;Riverside;1.8
+CA;Riverside;2.0
+CA;Riverside;2.2
+CA;Riverside;2.5
+CA;Riverside;3.0
+CA;Riverside;4.0
+CA;San Diego;0.0
+CA;San Diego;0.1
+CA;San Diego;0.12
+CA;San Diego;0.2
+CA;San Diego;0.25
+CA;San Diego;0.5
+CA;San Diego;0.75
+CA;San Diego;0.8
+CA;San Diego;1.0
+CA;San Diego;1.2
+CA;San Diego;1.5
+CA;San Diego;1.8
+CA;San Diego;2.0
+CA;San Diego;2.5
+CA;San Diego;3.0
+CA;San Diego;4.0
+CA;San Mateo;0.0
+CA;San Mateo;0.06
+CA;San Mateo;0.1
+CA;San Mateo;0.2
+CA;San Mateo;0.25
+CA;San Mateo;0.5
+CA;San Mateo;0.63
+CA;San Mateo;0.75
+CA;San Mateo;0.8
+CA;San Mateo;1.0
+CA;San Mateo;1.2
+CA;San Mateo;1.5
+CA;San Mateo;1.8
+CA;San Mateo;2.0
+CA;San Mateo;2.5
+CA;San Mateo;3.0
+CA;San Mateo;4.0
+CA;Sacramento;0.0
+CA;Sacramento;0.06
+CA;Sacramento;0.1
+CA;Sacramento;0.12
+CA;Sacramento;0.2
+CA;Sacramento;0.25
+CA;Sacramento;0.38
+CA;Sacramento;0.4
+CA;Sacramento;0.5
+CA;Sacramento;0.75
+CA;Sacramento;0.8
+CA;Sacramento;0.99
+CA;Sacramento;1.0
+CA;Sacramento;1.2
+CA;Sacramento;1.5
+CA;Sacramento;1.8
+CA;Sacramento;2.0
+CA;Sacramento;2.2
+CA;Sacramento;2.5
+CA;Sacramento;3.0
+CA;Sacramento;4.0
+CA;San Benito;0.0
+CA;San Benito;0.2
+CA;San Benito;0.25
+CA;San Benito;0.5
+CA;San Benito;0.75
+CA;San Benito;0.8
+CA;San Benito;1.0
+CA;San Benito;1.2
+CA;San Benito;1.5
+CA;San Benito;1.8
+CA;San Benito;2.0
+CA;San Benito;2.5
+CA;San Benito;3.0
+CA;San Benito;4.0
+CA;Santa Cruz;0.0
+CA;Santa Cruz;0.1
+CA;Santa Cruz;0.2
+CA;Santa Cruz;0.25
+CA;Santa Cruz;0.5
+CA;Santa Cruz;0.75
+CA;Santa Cruz;0.8
+CA;Santa Cruz;1.0
+CA;Santa Cruz;1.2
+CA;Santa Cruz;1.5
+CA;Santa Cruz;1.8
+CA;Santa Cruz;2.0
+CA;Santa Cruz;2.5
+CA;Santa Cruz;3.0
+CA;Santa Cruz;4.0
+CA;Stanislaus;0.0
+CA;Stanislaus;0.2
+CA;Stanislaus;0.25
+CA;Stanislaus;0.5
+CA;Stanislaus;0.75
+CA;Stanislaus;0.8
+CA;Stanislaus;1.0
+CA;Stanislaus;1.2
+CA;Stanislaus;1.5
+CA;Stanislaus;1.8
+CA;Stanislaus;2.0
+CA;Stanislaus;2.5
+CA;Stanislaus;3.0
+CA;Stanislaus;4.0
+CA;Los Angeles;0.0
+CA;Los Angeles;0.06
+CA;Los Angeles;0.1
+CA;Los Angeles;0.12
+CA;Los Angeles;0.2
+CA;Los Angeles;0.25
+CA;Los Angeles;0.38
+CA;Los Angeles;0.4
+CA;Los Angeles;0.5
+CA;Los Angeles;0.63
+CA;Los Angeles;0.7
+CA;Los Angeles;0.75
+CA;Los Angeles;0.8
+CA;Los Angeles;1.0
+CA;Los Angeles;1.1
+CA;Los Angeles;1.2
+CA;Los Angeles;1.5
+CA;Los Angeles;1.8
+CA;Los Angeles;2.0
+CA;Los Angeles;2.5
+CA;Los Angeles;2.8
+CA;Los Angeles;3.0
+CA;Los Angeles;3.2
+CA;Los Angeles;3.5
+CA;Los Angeles;4.0
+CA;Los Angeles;4.2
+CA;San Joaquin;0.0
+CA;San Joaquin;0.2
+CA;San Joaquin;0.25
+CA;San Joaquin;0.5
+CA;San Joaquin;0.75
+CA;San Joaquin;0.8
+CA;San Joaquin;1.0
+CA;San Joaquin;1.2
+CA;San Joaquin;1.5
+CA;San Joaquin;1.8
+CA;San Joaquin;2.0
+CA;San Joaquin;2.5
+CA;San Joaquin;3.0
+CA;San Joaquin;4.0
+CA;Santa Clara;0.0
+CA;Santa Clara;0.06
+CA;Santa Clara;0.1
+CA;Santa Clara;0.12
+CA;Santa Clara;0.2
+CA;Santa Clara;0.25
+CA;Santa Clara;0.4
+CA;Santa Clara;0.5
+CA;Santa Clara;0.75
+CA;Santa Clara;0.8
+CA;Santa Clara;1.0
+CA;Santa Clara;1.2
+CA;Santa Clara;1.5
+CA;Santa Clara;1.8
+CA;Santa Clara;2.0
+CA;Santa Clara;2.5
+CA;Santa Clara;3.0
+CA;Santa Clara;3.5
+CA;Santa Clara;4.0
+CA;Contra Costa;0.0
+CA;Contra Costa;0.1
+CA;Contra Costa;0.12
+CA;Contra Costa;0.2
+CA;Contra Costa;0.25
+CA;Contra Costa;0.5
+CA;Contra Costa;0.75
+CA;Contra Costa;0.8
+CA;Contra Costa;1.0
+CA;Contra Costa;1.2
+CA;Contra Costa;1.5
+CA;Contra Costa;1.8
+CA;Contra Costa;2.0
+CA;Contra Costa;2.5
+CA;Contra Costa;3.0
+CA;Contra Costa;4.0
+CA;San Francisco;0.0
+CA;San Francisco;0.1
+CA;San Francisco;0.12
+CA;San Francisco;0.2
+CA;San Francisco;0.25
+CA;San Francisco;0.5
+CA;San Francisco;0.75
+CA;San Francisco;0.8
+CA;San Francisco;1.0
+CA;San Francisco;1.2
+CA;San Francisco;1.5
+CA;San Francisco;1.8
+CA;San Francisco;2.0
+CA;San Francisco;2.5
+CA;San Francisco;3.0
+CA;San Francisco;4.0
+CA;Santa Barbara;0.0
+CA;Santa Barbara;0.1
+CA;Santa Barbara;0.12
+CA;Santa Barbara;0.2
+CA;Santa Barbara;0.25
+CA;Santa Barbara;0.38
+CA;Santa Barbara;0.5
+CA;Santa Barbara;0.75
+CA;Santa Barbara;0.8
+CA;Santa Barbara;1.0
+CA;Santa Barbara;1.2
+CA;Santa Barbara;1.5
+CA;Santa Barbara;1.8
+CA;Santa Barbara;2.0
+CA;Santa Barbara;2.5
+CA;Santa Barbara;3.0
+CA;Santa Barbara;4.0
+CA;San Bernardino;0.0
+CA;San Bernardino;0.06
+CA;San Bernardino;0.1
+CA;San Bernardino;0.12
+CA;San Bernardino;0.2
+CA;San Bernardino;0.25
+CA;San Bernardino;0.5
+CA;San Bernardino;0.63
+CA;San Bernardino;0.75
+CA;San Bernardino;0.8
+CA;San Bernardino;1.0
+CA;San Bernardino;1.2
+CA;San Bernardino;1.5
+CA;San Bernardino;1.8
+CA;San Bernardino;2.0
+CA;San Bernardino;2.5
+CA;San Bernardino;3.0
+CA;San Bernardino;4.0
+CA;San Luis Obispo;0.0
+CA;San Luis Obispo;0.12
+CA;San Luis Obispo;0.2
+CA;San Luis Obispo;0.25
+CA;San Luis Obispo;0.5
+CA;San Luis Obispo;0.75
+CA;San Luis Obispo;0.8
+CA;San Luis Obispo;1.0
+CA;San Luis Obispo;1.2
+CA;San Luis Obispo;1.5
+CA;San Luis Obispo;1.8
+CA;San Luis Obispo;2.0
+CA;San Luis Obispo;2.5
+CA;San Luis Obispo;3.0
+CA;San Luis Obispo;4.0
