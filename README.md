@@ -12,3 +12,7 @@
 * Course Title: Engineering Big Data
 * Course Number: INFO 7250
 * Term and Year: Spring 2021 Semester
+
+#Instructor Information
+
+* Yusuf Ozbek
