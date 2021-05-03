@@ -6,4 +6,5 @@
 * Also describes an easy approach to big data systems that can be built and run by a small team of students. 
 * Guides through the theory of big data systems, how to implement them in practice, and how to deploy and operate them once they are built.
 
-## Course Term: Spring 2021
+# Course Term 
+Spring 2021
