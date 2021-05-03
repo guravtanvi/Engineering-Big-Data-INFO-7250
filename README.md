@@ -9,6 +9,6 @@
 ![image](https://user-images.githubusercontent.com/59846364/116896855-a00c3a00-ac02-11eb-828d-10c99670647c.png)
 
 # Course Information
-Course Title: Engineering Big Data
-Course Number: INFO 7250
-Term and Year: Spring 2021 Semester
+* Course Title: Engineering Big Data
+* Course Number: INFO 7250
+* Term and Year: Spring 2021 Semester
