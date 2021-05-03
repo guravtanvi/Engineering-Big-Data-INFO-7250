@@ -13,6 +13,6 @@
 * Course Number: INFO 7250
 * Term and Year: Spring 2021 Semester
 
-#Instructor Information
+# Instructor Information
 
 * Yusuf Ozbek
